@@ -8,3 +8,14 @@ Template: Main style file
 /*OWL CAROUSEL*/
 @import '../node_modules/owl.carousel/src/scss/owl.carousel.scss';
 @import '../node_modules/owl.carousel/src/scss/owl.theme.default.scss';
+
+/*GOOGLE FONTS*/
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Nunito&display=swap');
+
+//TEMPLATES
+@import './include/variable';
+@import './include/global';
+@import './include/header';
+@import './include/banner';
+@import './include/tech';
+@import './include/security';
